@@ -5,11 +5,11 @@ Raficoin Network est une blockchain décentralisée conçue pour offrir des tran
 ---
 
 ## Fonctionnalités principales
-- **Minage** : Récompenses pour les mineurs en MessdakTokens.
+- **Minage** : Récompenses pour les mineurs en RafiCoin.
 - **Transactions signées** : Sécurisation des transactions avec des signatures numériques.
 - **Gestion des nœuds** : Support pour des réseaux distribués avec des mécanismes de consensus pour résoudre les conflits.
 - **API REST** : Interagissez avec la blockchain via des endpoints Flask.
-- **Token natif** : MessdakToken avec une offre totale de 1,000,000 tokens.
+- **Token natif** : RafiCoin avec une offre totale de 21,000,000 tokens.
 
 ---
 
